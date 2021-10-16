@@ -134,4 +134,4 @@ function listCourses(auth) {
 }
 
 // Login bot
-client.login('ODk4OTI2MzYzOTg0MTM0MTk0.YWrUag.yk5zrtvNOrThPsenVdDIIoPWN6w');
+client.login(token);
